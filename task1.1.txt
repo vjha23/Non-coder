@@ -1,0 +1,18 @@
+1.] logged in to user linux redhat 7.5 version
+ there are two options
+1.] command line method 
+2.] graphical method
+
+1.] command line method :-
+open terminal and log in  -/.config/user-dirs.dirs
+update XDG_DESKTOP_DIR command as XDP_DESKTOP _DIR="$HOME/DOWMNLOADS
+
+
+
+
+2.] graphical method :-
+step1- open home directory from desktop
+step2-then go to /.config
+step3.then go to file /user-dirs.dirs
+step4-then click on this and open the file
+step5- then modify it to XDG_DESKTOP_DIR command as XDP_DESKTOP _DIR="$HOME/DOWMNLOADS
